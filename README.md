@@ -1,12 +1,12 @@
 # Welcome to Software Carpentry  
-Hello World
+Hello World (edit)
 ![](http://software-carpentry.org/assets/img/logo-blue.svg)
 
 This is a meta repository to help navigate the numerous repositories and lessons of the [Software Carpentry](http://software-carpentry.org/) community on GitHub.
 
 ## What is Software Carpentry
 Software Carpentry is a community of volunteer instructors who teach short workshops and develop lessons which empower researchers of all disciplines to learn about and improve the ways in which they create software and collaborate.
-Hello World x2
+Hello World x2 (edit)
 ## Code of Conduct
 
 We are an open and inviting community with an actively enforced [Code of
@@ -30,7 +30,7 @@ R for Reproducible Scientific Analysis | [swcarpentry/r-novice-gapminder/](https
 Programming with MATLAB	| [swcarpentry/matlab-novice-inflammation](https://github.com/swcarpentry/matlab-novice-inflammation) | [rendered](http://swcarpentry.github.io/matlab-novice-inflammation/)
 Automation and Make	| [swcarpentry/make-novice](https://github.com/swcarpentry/make-novice) | [rendered](http://swcarpentry.github.io/make-novice)
 Instructor Training	 | [carpentries/instructor-training](https://github.com/carpentries/instructor-training) | [rendered](http://carpentries.github.io/instructor-training/)
-Hello World 3
+Hello World 3 (edit)
 ## Run a workshop
 
 For a fee, we can help you [bring a Software Carpentry workshop to your organization](http://software-carpentry.org/workshops/request/). This fee
